@@ -4,6 +4,7 @@ Rem      active_sessions.sql
 Rem
 Rem    DESCRIPTION
 Rem      List database active sessions.
+Rem
 Rem    NOTES
 Rem      Run with DBA grants.
 Rem
