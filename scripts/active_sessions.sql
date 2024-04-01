@@ -1,4 +1,3 @@
-Rem  Assembléia Legislativa do Estado de Santa Catarina
 Rem
 Rem    NAME
 Rem      active_sessions.sql
