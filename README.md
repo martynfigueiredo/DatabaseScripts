@@ -1,2 +1,2 @@
-# OracleDatabaseScripts
-Just updating my Oracle Database administration scripts here.
+# DatabaseScripts
+Just updating my Database administration scripts here.
